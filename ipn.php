@@ -4,7 +4,7 @@
 include_once 'config.php';
 
 //Include Database Connection File
-include_once 'dbConnect.php';
+include_once 'dbconnect.php';
 
 /*
 Read Post Data
